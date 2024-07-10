@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=usmanhaider77&show_icons=true&locale=en" alt="usmanhaider77" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanhaider77&" alt="usmanhaider77" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanhaider77&" alt="usmanhaider77" /></p>
